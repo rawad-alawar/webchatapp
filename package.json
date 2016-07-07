@@ -1,0 +1,22 @@
+{
+  "name": "webchatapp",
+  "version": "1.0.0",
+  "description": "chat app using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawad-alawar/webchatapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawad-alawar/webchatapp/issues"
+  },
+  "homepage": "https://github.com/rawad-alawar/webchatapp#readme",
+  "dependencies": {
+    "firebase": "^3.1.0"
+  }
+}
